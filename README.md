@@ -1,4 +1,4 @@
-# Tooth-Pictures
+# Tooth Medical Software - Pictures
 
 Here I would like to introduce the collision detection and visualization work related to oral teeth that I participated in during my undergraduate studies
 
