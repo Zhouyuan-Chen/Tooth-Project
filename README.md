@@ -1,6 +1,7 @@
 # Tooth-Pictures
 
 在这里我想介绍我本科期间参与的口腔牙齿相关的碰撞检测和可视化工作
+
 Here I would like to introduce the collision detection and visualization work related to oral teeth that I participated in during my undergraduate studies
 
 #### 碰撞部分/collision detection part：
