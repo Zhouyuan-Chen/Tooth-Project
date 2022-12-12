@@ -4,7 +4,7 @@ Here I would like to introduce the collision detection and visualization work re
 
 #### Collision Detection Part：
 
-* 碰撞面片对的检测和边缘线绘制/Detection of Collision Face Pairs and Edge Line Drawing
+* Detection of Collision Face Pairs and Edge Line Drawing
 
 <img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/collision.png" width="50%">
 
