@@ -2,7 +2,7 @@
 
 Here I would like to introduce the collision detection and visualization work related to oral teeth that I participated in during my undergraduate studies
 
-#### Collision Detection Part：
+## Collision Detection Part：
 
 * Detection of Collision Face Pairs and Edge Line Drawing
 
@@ -18,9 +18,9 @@ Here I would like to introduce the collision detection and visualization work re
 
 * Final Software Performance
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[Video](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
-#### Restruction of Tooth Undercut
+## Restruction of Tooth Undercut
 
 * Handmade Undercut
 
@@ -36,4 +36,4 @@ note:Demonstration using the tooth mesh and the undercut mesh after calculation 
 
 * Final Software Performance
 
-<iframe src="//player.bilibili.com/player.html?aid=221238463&bvid=BV1C8411V7zM&cid=922426483&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[Video](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
