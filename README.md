@@ -17,8 +17,7 @@ Here I would like to introduce the collision detection and visualization work re
 <img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/distance%20detect.png" width="50%">
 
 * Final Software Performance
-
-[Video](https://www.youtube.com/watch?v=SK7BsINxNnI)
+[![Video](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/video%20poster1.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
 ## Restruction of Tooth Undercut
 
