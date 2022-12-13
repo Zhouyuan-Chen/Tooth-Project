@@ -32,7 +32,7 @@ Here I would like to introduce the collision detection and visualization work re
 
 * Undercut Generation Results
 
-**note:Demonstration using the tooth mesh and the undercut mesh after calculation and export on another software
+**note:Demonstration using the tooth mesh and the undercut mesh after calculation and export on another software**
 <img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/undercut-final%20result.png" width="50%">
 
 * Final Software Performance
