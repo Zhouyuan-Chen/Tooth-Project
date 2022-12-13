@@ -18,7 +18,7 @@ Here I would like to introduce the collision detection and visualization work re
 
 * Final Software Performance
 
-<p><iframe src="//player.bilibili.com/player.html?aid=720018804&bvid=BV1qQ4y1Y7V2&cid=395043780&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe></p>
+<p><iframe src="//player.bilibili.com/player.html?aid=84267566&amp;cid=145147963&amp;page=1" frameborder="no" scrolling="no" width="95%" height="600"></iframe></p>
 
 #### Restruction of Tooth Undercut
 
