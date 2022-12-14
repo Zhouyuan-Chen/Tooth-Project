@@ -16,7 +16,9 @@ Here I would like to introduce the collision detection and visualization work re
 
 <img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/distance%20detect.png" width="50%">
 
-* Final Software Performance
+* Performance
+
+**this video may not fully display all funtions mentioned behind, I will update video later...**
 
 [![Video](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/video%20poster1.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
@@ -35,6 +37,8 @@ Here I would like to introduce the collision detection and visualization work re
 **note:Demonstration using the tooth mesh and the undercut mesh after calculation and export on another software**
 <img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/undercut-final%20result.png" width="50%">
 
-* Final Software Performance
+* Performance
+
+**this video may not fully display all funtions mentioned behind, I will update video later...**
 
 [![Video](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/video%20poster2.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
