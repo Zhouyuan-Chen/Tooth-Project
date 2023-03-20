@@ -2,7 +2,7 @@
 
 Here I would like to introduce the collision detection and visualization work related to oral teeth that I participated in during my undergraduate studies
 
-## Collision Detection Part：
+## Collision Detection Part Features：
 
 * Detection of Collision Face Pairs and Edge Line Drawing
 
@@ -22,7 +22,7 @@ Here I would like to introduce the collision detection and visualization work re
 
 [![Video](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/video%20poster1.png)](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
-## Restruction of Tooth Undercut
+## Restruction of Tooth Undercut Features
 
 * Handmade Undercut
 
